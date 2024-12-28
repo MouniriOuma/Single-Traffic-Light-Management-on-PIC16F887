@@ -12,6 +12,10 @@ This project simulates a single traffic light using a PIC16F887 microcontroller.
 ![Orange Light Circuit](circuit/orange.png)  
 *Circuit setup when the yellow light is active.*
 
+### Yellow & red Light
+![Orange and red Light Circuit](circuit/red_&_orange.png)  
+*Circuit setup when the yellow and red light is active.*
+
 ### Green Light
 ![Green Light Circuit](circuit/green.png)  
 *Circuit setup when the green light is active.*
