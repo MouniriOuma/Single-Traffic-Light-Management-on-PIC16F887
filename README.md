@@ -20,7 +20,7 @@ This project simulates a single traffic light using a PIC16F887 microcontroller.
 ![Green Light Circuit](circuit/green.png)  
 *Circuit setup when the green light is active.*
 
-##Timeline
+## Timeline
 ![timeline](circuit/timeline.png)  
 
 ## Files
