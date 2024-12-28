@@ -20,6 +20,9 @@ This project simulates a single traffic light using a PIC16F887 microcontroller.
 ![Green Light Circuit](circuit/green.png)  
 *Circuit setup when the green light is active.*
 
+##Timeline
+![timeline](circuit/timeline.png)  
+
 ## Files
 - `traffic_light.pdsprj`: Circuit schematic for 3 LEDs.
 - `traffic_light.c`: MikroC program for managing a single traffic light.
