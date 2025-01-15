@@ -35,4 +35,4 @@ This project simulates a single traffic light using a PIC16F887 microcontroller.
 
 ## Tools
 - MikroC Pro for PIC
-- Proteus ISIS
+- Proteus 8 professional
